@@ -1,0 +1,202 @@
+{
+    "array": [
+        {
+            "id": "ways_around_mirror_spawn_a",
+            "tag": "Interact",
+            "isInteractable": true,
+            "prefs": [
+                "interactive/flattering_mirror"
+            ],
+            "canBeMirrored": true,
+            "selectionUiPrefabID": "1x1",
+            "sizeX": 2,
+            "sizeZ": 2,
+            "pivotX": 0,
+            "pivotZ": 0,
+            "offsetX": 0,
+            "offsetZ": 0,
+            "flippedOffset": 0,
+            "nodes": [
+                1,
+                2,
+                2,
+                2
+            ],
+            "generatorConfig": {
+                "buildingSizeX": 1,
+                "buildingSizeZ": 1,
+                "buildingLeftBottomX": 0,
+                "buildingLeftBottomZ": 0,
+                "buildingInteractionLayout": 0
+            },
+            "name": "flattering_mirror_name",
+            "description": "flattering_mirror_description",
+            "narrativeDescription": "flattering_mirror_narrativeDescription"
+        },
+        {
+            "id": "ways_around_mirror_side_a",
+            "tag": "Interact",
+            "isInteractable": true,
+            "prefs": [
+                "interactive/flattering_mirror"
+            ],
+            "canBeMirrored": true,
+            "selectionUiPrefabID": "1x1",
+            "sizeX": 2,
+            "sizeZ": 2,
+            "pivotX": 0,
+            "pivotZ": 0,
+            "offsetX": 0,
+            "offsetZ": 0,
+            "flippedOffset": 0,
+            "nodes": [
+                1,
+                2,
+                2,
+                2
+            ],
+            "generatorConfig": {
+                "buildingSizeX": 1,
+                "buildingSizeZ": 1,
+                "buildingLeftBottomX": 0,
+                "buildingLeftBottomZ": 0,
+                "buildingInteractionLayout": 0
+            },
+            "name": "flattering_mirror_name",
+            "description": "flattering_mirror_description",
+            "narrativeDescription": "flattering_mirror_narrativeDescription"
+        },
+        {
+            "id": "ways_around_mirror_spawn_b",
+            "tag": "Interact",
+            "isInteractable": true,
+            "prefs": [
+                "interactive/flattering_mirror"
+            ],
+            "canBeMirrored": true,
+            "selectionUiPrefabID": "1x1",
+            "sizeX": 2,
+            "sizeZ": 2,
+            "pivotX": 0,
+            "pivotZ": 0,
+            "offsetX": 0,
+            "offsetZ": 0,
+            "flippedOffset": 0,
+            "nodes": [
+                1,
+                2,
+                2,
+                2
+            ],
+            "generatorConfig": {
+                "buildingSizeX": 1,
+                "buildingSizeZ": 1,
+                "buildingLeftBottomX": 0,
+                "buildingLeftBottomZ": 0,
+                "buildingInteractionLayout": 0
+            },
+            "name": "flattering_mirror_name",
+            "description": "flattering_mirror_description",
+            "narrativeDescription": "flattering_mirror_narrativeDescription"
+        },
+        {
+            "id": "ways_around_mirror_side_b",
+            "tag": "Interact",
+            "isInteractable": true,
+            "prefs": [
+                "interactive/flattering_mirror"
+            ],
+            "canBeMirrored": true,
+            "selectionUiPrefabID": "1x1",
+            "sizeX": 2,
+            "sizeZ": 2,
+            "pivotX": 0,
+            "pivotZ": 0,
+            "offsetX": 0,
+            "offsetZ": 0,
+            "flippedOffset": 0,
+            "nodes": [
+                1,
+                2,
+                2,
+                2
+            ],
+            "generatorConfig": {
+                "buildingSizeX": 1,
+                "buildingSizeZ": 1,
+                "buildingLeftBottomX": 0,
+                "buildingLeftBottomZ": 0,
+                "buildingInteractionLayout": 0
+            },
+            "name": "flattering_mirror_name",
+            "description": "flattering_mirror_description",
+            "narrativeDescription": "flattering_mirror_narrativeDescription"
+        },
+        {
+            "id": "ways_around_mirror_center_a",
+            "tag": "Interact",
+            "isInteractable": true,
+            "prefs": [
+                "interactive/flattering_mirror"
+            ],
+            "canBeMirrored": true,
+            "selectionUiPrefabID": "1x1",
+            "sizeX": 2,
+            "sizeZ": 2,
+            "pivotX": 0,
+            "pivotZ": 0,
+            "offsetX": 0,
+            "offsetZ": 0,
+            "flippedOffset": 0,
+            "nodes": [
+                1,
+                2,
+                2,
+                2
+            ],
+            "generatorConfig": {
+                "buildingSizeX": 1,
+                "buildingSizeZ": 1,
+                "buildingLeftBottomX": 0,
+                "buildingLeftBottomZ": 0,
+                "buildingInteractionLayout": 0
+            },
+            "name": "flattering_mirror_name",
+            "description": "flattering_mirror_description",
+            "narrativeDescription": "flattering_mirror_narrativeDescription"
+        },
+        {
+            "id": "ways_around_mirror_center_b",
+            "tag": "Interact",
+            "isInteractable": true,
+            "prefs": [
+                "interactive/flattering_mirror"
+            ],
+            "canBeMirrored": true,
+            "selectionUiPrefabID": "1x1",
+            "sizeX": 2,
+            "sizeZ": 2,
+            "pivotX": 0,
+            "pivotZ": 0,
+            "offsetX": 0,
+            "offsetZ": 0,
+            "flippedOffset": 0,
+            "nodes": [
+                1,
+                2,
+                2,
+                2
+            ],
+            "generatorConfig": {
+                "buildingSizeX": 1,
+                "buildingSizeZ": 1,
+                "buildingLeftBottomX": 0,
+                "buildingLeftBottomZ": 0,
+                "buildingInteractionLayout": 0
+            },
+            "name": "flattering_mirror_name",
+            "description": "flattering_mirror_description",
+            "narrativeDescription": "flattering_mirror_narrativeDescription"
+        }
+    ]
+}
