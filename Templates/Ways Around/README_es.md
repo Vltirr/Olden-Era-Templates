@@ -1,6 +1,8 @@
 # Ways Around
 
-![Vista previa de Ways Around](./WaysAround.png)
+<p align="center">
+  <img src="./WaysAround.png" alt="Vista previa de Ways Around" width="360">
+</p>
 
 `Ways Around` es una plantilla aleatoria para 2 jugadores en modo `Single Hero` para *Heroes of Might and Magic: Olden Era*, construida alrededor de dos rutas de ataque diferenciadas: un flanqueo exterior y una ruptura por el centro. El mapa combina cruces directos de alto valor, portales de retorno hacia la zona inicial de cada jugador y una condición de victoria por torneo que mantiene la presión incluso cuando ambos jugadores evitan el contacto directo.
 

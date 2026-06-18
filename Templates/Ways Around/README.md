@@ -1,6 +1,8 @@
 # Ways Around
 
-![Ways Around preview](./WaysAround.png)
+<p align="center">
+  <img src="./WaysAround.png" alt="Ways Around preview" width="360">
+</p>
 
 `Ways Around` is a 2-player `Single Hero` random map template for *Heroes of Might and Magic: Olden Era* built around two distinct attack routes: an outer flank and a central breakthrough. The map combines direct high-value crossings, return portals back to each player's home side, and a tournament win condition that keeps pressure high even when both players avoid direct contact.
 
