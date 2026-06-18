@@ -1,0 +1,238 @@
+{
+    "array": [
+        {
+            "id": "ways_around_mirror_spawn_a",
+            "aiIgnore": true,
+            "tooltipVisitType": "Scouting",
+            "variantRerollType": "None",
+            "visitorsResetType": "None",
+            "visitType": "Unlimited",
+            "canAIVisitUnlimited": false,
+            "variants": [
+                {
+                    "rollChance": 100,
+                    "value": 20000,
+                    "guardUnits": [],
+                    "rewardSet": {
+                        "rewardSetShowType": "Invisible",
+                        "rewardSetApplyType": "ForAll",
+                        "rewardSetCancelType": "CancelAndDelete",
+                        "rewards": [
+                            {
+                                "rewardType": "SideRemoveFogOfWarAroundAllBuildByType",
+                                "rewardShowType": "Invisible",
+                                "rewardIcon": "default",
+                                "rewardName": "default",
+                                "rewardDesc": "default",
+                                "rewardNotificationDesc": "default",
+                                "parameters": [
+                                    "EventBank",
+                                    "ways_around_mirror_side_a",
+                                    "10"
+                                ]
+                            },
+                            {
+                                "rewardType": "SideRemoveFogOfWarAroundAllBuildByType",
+                                "rewardShowType": "Invisible",
+                                "rewardIcon": "default",
+                                "rewardName": "default",
+                                "rewardDesc": "default",
+                                "rewardNotificationDesc": "default",
+                                "parameters": [
+                                    "EventBank",
+                                    "ways_around_mirror_center_a",
+                                    "10"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "ways_around_mirror_side_a",
+            "aiIgnore": true,
+            "tooltipVisitType": "Scouting",
+            "variantRerollType": "None",
+            "visitorsResetType": "None",
+            "visitType": "Unlimited",
+            "canAIVisitUnlimited": false,
+            "variants": [
+                {
+                    "rollChance": 100,
+                    "value": 0,
+                    "guardUnits": [],
+                    "rewardSet": {
+                        "rewardSetShowType": "Invisible",
+                        "rewardSetApplyType": "ForAll",
+                        "rewardSetCancelType": "CancelAndDelete",
+                        "rewards": [
+                            {
+                                "rewardType": "SideFogOfWarRevealing",
+                                "rewardShowType": "Invisible",
+                                "rewardIcon": "default",
+                                "rewardName": "default",
+                                "rewardDesc": "default",
+                                "rewardNotificationDesc": "default",
+                                "parameters": [
+                                    "0"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "ways_around_mirror_spawn_b",
+            "aiIgnore": true,
+            "tooltipVisitType": "Scouting",
+            "variantRerollType": "None",
+            "visitorsResetType": "None",
+            "visitType": "Unlimited",
+            "canAIVisitUnlimited": false,
+            "variants": [
+                {
+                    "rollChance": 100,
+                    "value": 20000,
+                    "guardUnits": [],
+                    "rewardSet": {
+                        "rewardSetShowType": "Invisible",
+                        "rewardSetApplyType": "ForAll",
+                        "rewardSetCancelType": "CancelAndDelete",
+                        "rewards": [
+                            {
+                                "rewardType": "SideRemoveFogOfWarAroundAllBuildByType",
+                                "rewardShowType": "Invisible",
+                                "rewardIcon": "default",
+                                "rewardName": "default",
+                                "rewardDesc": "default",
+                                "rewardNotificationDesc": "default",
+                                "parameters": [
+                                    "EventBank",
+                                    "ways_around_mirror_side_b",
+                                    "10"
+                                ]
+                            },
+                            {
+                                "rewardType": "SideRemoveFogOfWarAroundAllBuildByType",
+                                "rewardShowType": "Invisible",
+                                "rewardIcon": "default",
+                                "rewardName": "default",
+                                "rewardDesc": "default",
+                                "rewardNotificationDesc": "default",
+                                "parameters": [
+                                    "EventBank",
+                                    "ways_around_mirror_center_b",
+                                    "10"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "ways_around_mirror_side_b",
+            "aiIgnore": true,
+            "tooltipVisitType": "Scouting",
+            "variantRerollType": "None",
+            "visitorsResetType": "None",
+            "visitType": "Unlimited",
+            "canAIVisitUnlimited": false,
+            "variants": [
+                {
+                    "rollChance": 100,
+                    "value": 0,
+                    "guardUnits": [],
+                    "rewardSet": {
+                        "rewardSetShowType": "Invisible",
+                        "rewardSetApplyType": "ForAll",
+                        "rewardSetCancelType": "CancelAndDelete",
+                        "rewards": [
+                            {
+                                "rewardType": "SideFogOfWarRevealing",
+                                "rewardShowType": "Invisible",
+                                "rewardIcon": "default",
+                                "rewardName": "default",
+                                "rewardDesc": "default",
+                                "rewardNotificationDesc": "default",
+                                "parameters": [
+                                    "0"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "ways_around_mirror_center_a",
+            "aiIgnore": true,
+            "tooltipVisitType": "Scouting",
+            "variantRerollType": "None",
+            "visitorsResetType": "None",
+            "visitType": "Unlimited",
+            "canAIVisitUnlimited": false,
+            "variants": [
+                {
+                    "rollChance": 100,
+                    "value": 0,
+                    "guardUnits": [],
+                    "rewardSet": {
+                        "rewardSetShowType": "Invisible",
+                        "rewardSetApplyType": "ForAll",
+                        "rewardSetCancelType": "CancelAndDelete",
+                        "rewards": [
+                            {
+                                "rewardType": "SideFogOfWarRevealing",
+                                "rewardShowType": "Invisible",
+                                "rewardIcon": "default",
+                                "rewardName": "default",
+                                "rewardDesc": "default",
+                                "rewardNotificationDesc": "default",
+                                "parameters": [
+                                    "0"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "ways_around_mirror_center_b",
+            "aiIgnore": true,
+            "tooltipVisitType": "Scouting",
+            "variantRerollType": "None",
+            "visitorsResetType": "None",
+            "visitType": "Unlimited",
+            "canAIVisitUnlimited": false,
+            "variants": [
+                {
+                    "rollChance": 100,
+                    "value": 0,
+                    "guardUnits": [],
+                    "rewardSet": {
+                        "rewardSetShowType": "Invisible",
+                        "rewardSetApplyType": "ForAll",
+                        "rewardSetCancelType": "CancelAndDelete",
+                        "rewards": [
+                            {
+                                "rewardType": "SideFogOfWarRevealing",
+                                "rewardShowType": "Invisible",
+                                "rewardIcon": "default",
+                                "rewardName": "default",
+                                "rewardDesc": "default",
+                                "rewardNotificationDesc": "default",
+                                "parameters": [
+                                    "0"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
