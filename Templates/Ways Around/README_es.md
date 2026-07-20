@@ -84,20 +84,28 @@ La distribución de valor entre zonas es intencionadamente desigual:
 - `Side-A` y `Side-B` son zonas laterales ricas, con control de ciudad y acceso a bancos potentes
 - `Spawn-A` y `Spawn-B` son zonas iniciales más contenidas, con economía garantizada y menor techo total
 
+## Documentacion ampliada
+
+Para consultar la estructura de zonas, reglas de colocacion, recompensas, contenido obligatorio y limites, ve a la [documentacion tecnica ampliada](./docs/es/01-zones/01-overview.md).
+
 ## Instalación
 
-La plantilla necesita tres destinos de instalación:
+La plantilla usa dos destinos de instalación:
 
-1. Carpeta de plantilla:
-   Copia la carpeta completa `Ways Around` en `StreamingAssets/map_templates/`.
+1. Localiza la carpeta de datos del juego:
+   En Steam, abre la Biblioteca, haz clic con el botón derecho en *Heroes of Might and Magic: Olden Era* y elige **Administrar > Explorar archivos locales**. En la carpeta que se abre, entra en `HeroesOldenEra_Data/StreamingAssets/`.
 
-2. Zip de assets:
-   Coloca [`WaysAroundAssets.zip`](./WaysAroundAssets.zip) en la raíz de `StreamingAssets/`.
+2. Archivos de plantilla:
+   Copia [`WaysAround.rmg.json`](./WaysAround.rmg.json) y [`WaysAround.png`](./WaysAround.png) en `<carpeta de instalacion del juego>/HeroesOldenEra_Data/StreamingAssets/map_templates/`.
+
+3. Zip de assets:
+   Coloca [`WaysAroundAssets.zip`](./WaysAroundAssets.zip) en `<carpeta de instalacion del juego>/HeroesOldenEra_Data/StreamingAssets/`.
 
 Resultado esperado:
 
-- `StreamingAssets/map_templates/Ways Around/...`
-- `StreamingAssets/WaysAroundAssets.zip`
+- `HeroesOldenEra_Data/StreamingAssets/map_templates/WaysAround.rmg.json`
+- `HeroesOldenEra_Data/StreamingAssets/map_templates/WaysAround.png`
+- `HeroesOldenEra_Data/StreamingAssets/WaysAroundAssets.zip`
 
 Reinicia el juego después de actualizar el zip.
 
@@ -105,4 +113,5 @@ Reinicia el juego después de actualizar el zip.
 
 - [`WaysAround.rmg.json`](./WaysAround.rmg.json): plantilla principal
 - [`WaysAround.png`](./WaysAround.png): imagen de vista previa
-- [`WaysAroundAssets.zip`](./WaysAroundAssets.zip): paquete DB de assets
+- [`WaysAroundAssets.zip`](./WaysAroundAssets.zip): archivo de assets requerido
+- [`DB/`](./DB/): definiciones fuente ya incluidas en el archivo de assets; no necesarias para la instalación
