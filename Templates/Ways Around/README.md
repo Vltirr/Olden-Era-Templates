@@ -84,20 +84,28 @@ Relative zone value is intentionally uneven:
 - `Side-A` and `Side-B` are rich side zones with town control and strong bank access
 - `Spawn-A` and `Spawn-B` are streamlined opening zones with guaranteed economy and lower overall ceiling
 
+## Extended Documentation
+
+For zone layouts, placement rules, rewards, mandatory content, and limits, see the [extended technical documentation](./docs/en/01-zones/01-overview.md).
+
 ## Installation
 
-The template needs three installation targets:
+The template uses two installation locations:
 
-1. Template folder:
-   Copy the full folder `Ways Around` into the game's `StreamingAssets/map_templates/` directory.
+1. Find the game data folder:
+   In Steam, open the Library, right-click *Heroes of Might and Magic: Olden Era*, then choose **Manage > Browse local files**. In the folder that opens, enter `HeroesOldenEra_Data/StreamingAssets/`.
 
-2. Assets zip:
-   Place [`WaysAroundAssets.zip`](./WaysAroundAssets.zip) in the root of `StreamingAssets/`.
+2. Template files:
+   Copy [`WaysAround.rmg.json`](./WaysAround.rmg.json) and [`WaysAround.png`](./WaysAround.png) into `<game installation>/HeroesOldenEra_Data/StreamingAssets/map_templates/`.
+
+3. Assets zip:
+   Place [`WaysAroundAssets.zip`](./WaysAroundAssets.zip) in `<game installation>/HeroesOldenEra_Data/StreamingAssets/`.
 
 Expected result:
 
-- `StreamingAssets/map_templates/Ways Around/...`
-- `StreamingAssets/WaysAroundAssets.zip`
+- `HeroesOldenEra_Data/StreamingAssets/map_templates/WaysAround.rmg.json`
+- `HeroesOldenEra_Data/StreamingAssets/map_templates/WaysAround.png`
+- `HeroesOldenEra_Data/StreamingAssets/WaysAroundAssets.zip`
 
 Restart the game after updating the zip.
 
@@ -105,4 +113,5 @@ Restart the game after updating the zip.
 
 - [`WaysAround.rmg.json`](./WaysAround.rmg.json): main template
 - [`WaysAround.png`](./WaysAround.png): preview image
-- [`WaysAroundAssets.zip`](./WaysAroundAssets.zip): DB asset package
+- [`WaysAroundAssets.zip`](./WaysAroundAssets.zip): required asset archive
+- [`DB/`](./DB/): source definitions already packaged in the asset archive; not needed for installation
