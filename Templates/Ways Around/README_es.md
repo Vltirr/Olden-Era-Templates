@@ -73,7 +73,7 @@ Portales de retorno unidireccionales:
 | `Spawn-A`, `Spawn-B` | Zonas iniciales | Ciudad inicial, minas tempranas, bancos tempranos, moradas de facción T1/T2 de un solo uso, Espejo del mundo | Economía temprana y primeras limpiezas seguras |
 | `Side-A`, `Side-B` | Zonas laterales de presión | Ciudad lateral, paquete económico, bancos T3 guardados, Espejo del mundo, ruta hacia tesoro rival/centro | Fuerte economía de midgame y ruta de presión |
 | `Center-A`, `Center-B` | Zonas avanzadas de tesoro | Sin ciudad, Laboratorio de investigación, Chapitel celestial, moradas de facción T5/T6 de un solo uso, Espejo del mundo | Tesoro de alto valor y herramientas avanzadas de tempo |
-| `Center` | Zona central de conflicto | Ciudad neutral con Cofradía de magos V preconstruida y toda la demás construcción bloqueada, Utopía de Dragones, Laboratorio de investigación, varias estructuras mágicas, 4 Pozos | Zona de mayor valor y más disputada |
+| `Center` | Zona central de conflicto | Ciudad neutral con Cofradía de Magos V preconstruida y toda la demás construcción bloqueada, Utopía de Dragones, Estructura anómala, un Pergamino infinito de cada tipo y 4 pozos de maná | Zona de mayor valor y más disputada |
 
 ## Expectativa de recompensas
 
@@ -84,9 +84,9 @@ La distribución de valor entre zonas es intencionadamente desigual:
 - `Side-A` y `Side-B` son zonas laterales ricas, con control de ciudad y acceso a bancos potentes
 - `Spawn-A` y `Spawn-B` son zonas iniciales más contenidas, con economía garantizada y menor techo total
 
-## Documentacion ampliada
+## Documentación ampliada
 
-Para consultar la estructura de zonas, reglas de colocacion, recompensas, contenido obligatorio y limites, ve a la [documentacion tecnica ampliada](./docs/es/01-zones/01-overview.md).
+Para consultar la estructura de zonas, reglas de colocación, recompensas, contenido obligatorio y límites, ve a la [documentación técnica ampliada](./docs/es/01-zonas/01-resumen.md).
 
 ## Instalación
 

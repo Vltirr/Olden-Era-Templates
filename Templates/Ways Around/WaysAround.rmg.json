@@ -85,15 +85,11 @@
             "neutral_magic_shadow_form",
             "neutral_magic_town_portal"
         ],
-        "skills": [
-            "skill_summoner"
+        "items": [
+            "golden_goose_egg_artifact"
         ],
-        "heroes": [
-            "nature_hero_17",
-            "unfrozen_hero_8",
-            "unfrozen_hero_13",
-            "necro_hero_17"
-        ]
+        "skills": [],
+        "heroes": []
     },
     "variants": [
         {
@@ -130,7 +126,7 @@
                     "layout": "zone_layout_center",
                     "guardCutoffValue": 2500,
                     "guardRandomization": 0.05,
-                    "guardMultiplier": 1.5,
+                    "guardMultiplier": 1.25,
                     "guardWeeklyIncrement": 0.2,
                     "guardReactionDistribution": [
                         60,
@@ -167,6 +163,10 @@
                             "faction": {
                                 "type": "FromList",
                                 "args": [
+                                    "undead",
+                                    "nature",
+                                    "demon",
+                                    "dungeon",
                                     "differentFrom: 0 Spawn-A",
                                     "differentFrom: 0 Spawn-B"
                                 ]
@@ -282,7 +282,7 @@
                             "to": {
                                 "type": "MandatoryContent",
                                 "args": [
-                                    "name_research_laboratory_center"
+                                    "name_abnormal_structure_center"
                                 ]
                             }
                         },
@@ -354,7 +354,7 @@
                     "layout": "zone_layout_treasure",
                     "guardCutoffValue": 2500,
                     "guardRandomization": 0.05,
-                    "guardMultiplier": 1.75,
+                    "guardMultiplier": 1.25,
                     "guardWeeklyIncrement": 0.2,
                     "guardReactionDistribution": [
                         60,
@@ -537,7 +537,7 @@
                     "layout": "zone_layout_treasure",
                     "guardCutoffValue": 2500,
                     "guardRandomization": 0.05,
-                    "guardMultiplier": 1.75,
+                    "guardMultiplier": 1.25,
                     "guardWeeklyIncrement": 0.2,
                     "guardReactionDistribution": [
                         60,
@@ -1705,43 +1705,20 @@
             "name": "mandatory_content_center_with_mana_wells",
             "content": [
                 {
-                    "includeLists": [
-                        "basic_content_list_building_magic_tier_2"
-                    ],
+                    "sid": "magic_amplifier_1",
                     "soloEncounter": true
                 },
                 {
-                    "includeLists": [
-                        "basic_content_list_building_magic_tier_2"
-                    ],
+                    "sid": "magic_amplifier_2",
                     "soloEncounter": true
                 },
                 {
-                    "includeLists": [
-                        "basic_content_list_building_magic_tier_2"
-                    ],
+                    "sid": "magic_amplifier_3",
                     "soloEncounter": true
                 },
                 {
-                    "includeLists": [
-                        "basic_content_list_building_magic_tier_2"
-                    ],
+                    "sid": "magic_amplifier_4",
                     "soloEncounter": true
-                },
-                {
-                    "sid": "alchemy_lab",
-                    "isMine": true,
-                    "rules": [
-                        {
-                            "type": "Sid",
-                            "args": [
-                                "alchemy_lab"
-                            ],
-                            "targetMin": 0.5,
-                            "targetMax": 0.5,
-                            "weight": 1
-                        }
-                    ]
                 },
                 {
                     "sid": "alchemy_lab",
@@ -1789,8 +1766,8 @@
                     ]
                 },
                 {
-                    "name": "name_research_laboratory_center",
-                    "sid": "research_laboratory",
+                    "name": "name_abnormal_structure_center",
+                    "sid": "abnormal_structure",
                     "isGuarded": false,
                     "soloEncounter": true,
                     "rules": [
@@ -3308,7 +3285,7 @@
                 },
                 {
                     "sid": "arena",
-                    "maxCount": 1
+                    "maxCount": 0
                 },
                 {
                     "sid": "sacrificial_shrine",
@@ -3623,11 +3600,11 @@
                 },
                 {
                     "sid": "eternal_dragon",
-                    "maxCount": 1
+                    "maxCount": 0
                 },
                 {
                     "sid": "fickle_shrine",
-                    "maxCount": 1
+                    "maxCount": 0
                 },
                 {
                     "sid": "gardener",
@@ -3639,7 +3616,7 @@
                 },
                 {
                     "sid": "gingerbread_house",
-                    "maxCount": 1
+                    "maxCount": 0
                 },
                 {
                     "sid": "peasant_cart",
@@ -3723,6 +3700,10 @@
             "name": "content_limits_treasure",
             "limits": [
                 {
+                    "sid": "eternal_dragon",
+                    "maxCount": 0
+                },
+                {
                     "sid": "beer_fountain",
                     "maxCount": 1
                 },
@@ -3780,7 +3761,7 @@
                 },
                 {
                     "sid": "arena",
-                    "maxCount": 1
+                    "maxCount": 0
                 },
                 {
                     "sid": "sacrificial_shrine",
@@ -3820,7 +3801,7 @@
                 },
                 {
                     "sid": "fickle_shrine",
-                    "maxCount": 1
+                    "maxCount": 0
                 },
                 {
                     "sid": "insaras_eye",
@@ -4149,6 +4130,14 @@
             "name": "content_limits_side",
             "limits": [
                 {
+                    "sid": "eternal_dragon",
+                    "maxCount": 0
+                },
+                {
+                    "sid": "fickle_shrine",
+                    "maxCount": 0
+                },
+                {
                     "sid": "beer_fountain",
                     "maxCount": 1
                 },
@@ -4206,7 +4195,7 @@
                 },
                 {
                     "sid": "arena",
-                    "maxCount": 1
+                    "maxCount": 0
                 },
                 {
                     "sid": "sacrificial_shrine",
@@ -4606,6 +4595,14 @@
             "name": "content_limits_spawn",
             "limits": [
                 {
+                    "sid": "eternal_dragon",
+                    "maxCount": 0
+                },
+                {
+                    "sid": "fickle_shrine",
+                    "maxCount": 0
+                },
+                {
                     "sid": "beer_fountain",
                     "maxCount": 1
                 },
@@ -4663,7 +4660,7 @@
                 },
                 {
                     "sid": "arena",
-                    "maxCount": 1
+                    "maxCount": 0
                 },
                 {
                     "sid": "sacrificial_shrine",
@@ -5075,14 +5072,14 @@
             },
             "groups": [
                 {
-                    "weight": 40000,
+                    "weight": 60000,
                     "includeLists": [
                         "basic_content_list_pickup_random_items"
                     ],
                     "content": [
                         {
                             "sid": "random_item_common",
-                            "weight": 25
+                            "weight": 0
                         },
                         {
                             "sid": "random_item_rare",
@@ -5582,7 +5579,7 @@
                         },
                         {
                             "sid": "random_item_legendary",
-                            "weight": 200
+                            "weight": 0
                         }
                     ]
                 },

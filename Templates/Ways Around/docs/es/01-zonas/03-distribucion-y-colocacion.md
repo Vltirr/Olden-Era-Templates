@@ -1,8 +1,8 @@
-# Forma y colocacion
+# Forma y colocación
 
-## Diseno global
+## Diseño global
 
-- Tamano del mapa: `112 x 112`.
+- Tamaño del mapa: `112 x 112`.
 - Orientacion: `BoundingCircle`, anclada en `Spawn-A`.
 - Rotacion: desactivada.
 - Lagos: `lakesFill: 0.05` en todos los layouts.

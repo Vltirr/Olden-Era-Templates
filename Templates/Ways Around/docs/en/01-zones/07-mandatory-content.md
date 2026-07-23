@@ -5,7 +5,7 @@
 | Spawn-A/B | Gold, wood and ore mines; Alchemical Lab; common and rare items; tier 1 resource bank; biome-specific tier 2 resource bank; random tier 2 resource bank; faction T1/T2 one-time dwellings; World Mirror; mana well |
 | Side-A/B | Redwood Observatory, Marketplace, Forge of the Second Man; mines; biome rare mine; rare and epic items; two tier 3 resource banks; World Mirror; mana well |
 | Center-A/B | Alchemical Lab; two epic items; Research Laboratory; Celestial Spire; faction T5/T6 one-time dwellings; World Mirror; mana well |
-| Center | Four magic T2 structures; three Alchemical Labs; Dragon Utopia; Research Laboratory; two tier 3 resource banks; legendary and epic items; Town Gate; four mana wells |
+| Center | Endless Scrolls of Silver, Gold, Platinum, and Bronze; two Alchemical Labs; Dragon Utopia; Abnormal Structure; two tier 3 resource banks; legendary and epic items; Town Gate; four mana wells |
 
 ## One-Time Dwellings
 
@@ -13,4 +13,4 @@ Spawn-A/B receive faction T1/T2 dwellings. Center-A copies Spawn-A's faction bio
 
 ## Guarding
 
-Mandatory banks with internal battles, including Dragon Utopia and Research Laboratory, are configured without external guards.
+Mandatory banks with internal battles, including the Dragon Utopia, Abnormal Structure, and Center-A/B Research Laboratories, are configured without external guards.

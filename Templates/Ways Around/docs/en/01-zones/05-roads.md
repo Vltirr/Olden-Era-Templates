@@ -4,7 +4,7 @@
 |---|---|---|---|
 | Center-A/B | Research Laboratory | Crossroads | `Dirt` |
 | Center | Dragon Utopia | Crossroads | `Stone` |
-| Center | Research Laboratory | Crossroads | `Stone` |
+| Center | Abnormal Structure | Crossroads | `Stone` |
 | All zones | Mandatory mana well | Associated connection | `Dirt` |
 | Spawn-A/B, Center-A/B | One-time faction dwellings | Crossroads | `Stone` |
 | Return portal pairs | Both ends | Associated anchor | Internal road |

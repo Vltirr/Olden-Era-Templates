@@ -1,5 +1,20 @@
 # Guards
 
+## Generated Encounter Guards
+
+Random guarded content is placed into encounter layouts that may contain several locations or pickups behind one army. The generator adds the `guardValue` of every filled slot in that encounter, applies the zone's guard multiplier, and then applies the configured randomization and weekly growth.
+
+The following table shows the guard multiplier, randomization, and weekly growth applied to generated encounters in each zone.
+
+| Zone | Guard multiplier | Randomization | Weekly growth |
+|---|---:|---:|---:|
+| Spawn-A / Spawn-B | 1.00 | 0.05 | 0.20 |
+| Side-A / Side-B | 1.25 | 0.05 | 0.20 |
+| Center-A / Center-B | 1.25 | 0.05 | 0.20 |
+| Center | 1.25 | 0.05 | 0.20 |
+
+These values apply to guards generated for zone content. Connection and town guards use their own explicit values shown below.
+
 ## Ground Connections
 
 | Connection | Guard value | Weekly growth |

@@ -11,7 +11,9 @@
 
 Center's guarded value distribution is `[0, 1, 2, 6, 5, 5]`, concentrating value in the upper brackets. Center-A/B use `[1, 3, 4, 6, 3, 2]`, retaining strong rewards with less top-end value.
 
+The guarded random-artifact group has weight `60000` in both Center and Center-A/B. Center can select rare, epic, or legendary artifacts with relative weights `25/50/25`; Center-A/B can select rare or epic artifacts with weights `25/50`. Common artifacts have weight `0` in both pools, and legendary artifacts remain prohibited in Center-A/B.
+
 - Spawn zones focus on mines, early banks, and opening resources.
 - Side zones add a controlled town, stronger economy, and T3 bank access.
 - Center-A/B provide advanced one-time dwellings, laboratory access, and epic artifacts.
-- Center adds the neutral town, Dragon Utopia, laboratory, legendary and epic artifacts, and the highest overall budget.
+- Center adds the neutral town, Dragon Utopia, Abnormal Structure, legendary and epic artifacts, and the highest overall budget.

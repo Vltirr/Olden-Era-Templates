@@ -8,4 +8,6 @@
 
 The Center also uses `ways_around_center_buildings_ban`, blocking every construction not included in its preset.
 
+The neutral Center town can be Necropolis, Grove, Hive, or Dungeon, and must differ from both players' starting factions. Temple and Schism are excluded because their towns cannot provide the complete Mage Guild V reward required for Center.
+
 Building presets are supplied by `WaysAroundAssets.zip` in `DB/buildings_constructions/ways_around_buildings_presets.json`; the Center ban list is in `DB/buildings_bans/ways_around_buildings_bans.json`.

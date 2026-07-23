@@ -10,7 +10,7 @@
 
 ## Ficheros fuente de `DB/`
 
-Estos ficheros fuente ya estan incluidos dentro de `WaysAroundAssets.zip`. Se incluyen en el repositorio para inspeccion y modificacion, pero no son necesarios para la instalacion.
+Estos ficheros fuente ya están incluidos dentro de `WaysAroundAssets.zip`. Se incluyen en el repositorio para inspección y modificación, pero no son necesarios para la instalación.
 
 | Ruta fuente | Proposito |
 |---|---|

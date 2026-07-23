@@ -73,7 +73,7 @@ One-way return portals:
 | `Spawn-A`, `Spawn-B` | Home/start zones | Starting town, early mines, early banks, one-time faction T1/T2 dwellings, World Mirror | Early economy and safe first clears |
 | `Side-A`, `Side-B` | Outer pressure zones | Side town, economy package, guarded T3 banks, World Mirror, route toward enemy treasure/center | Strong midgame economy and pressure route |
 | `Center-A`, `Center-B` | Forward treasure zones | No town, Research Laboratory, Celestial Spire, one-time faction T5/T6 dwellings, World Mirror | High-value treasure and advanced tempo tools |
-| `Center` | Core conflict zone | Neutral town with Mage Guild V prebuilt and all other construction blocked, Dragon Utopia, Research Laboratory, multiple magic structures, 4 mana wells | Highest-value and most contested area |
+| `Center` | Core conflict zone | Neutral town with Mage Guild V prebuilt and all other construction blocked, Dragon Utopia, Abnormal Structure, one Endless Scroll of each type, 4 mana wells | Highest-value and most contested area |
 
 ## Reward Expectations
 

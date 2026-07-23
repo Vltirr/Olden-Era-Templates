@@ -1,10 +1,19 @@
 # Bans
 
-## Skills and Heroes
+## Global Bans
 
-| Type | Entries | Reason |
+| Type | Entries | Scope |
 |---|---|---|
-| Skill | Summon Avatar | Prevents the Avatar ability. |
-| Heroes | Sullie, Changeling Urgo, The Eye Collective | These regular heroes start with Summon Avatar. |
+| Neutral spells | Pocket Dimension, Light Gate, Dimension Door, Shadow Form, Town Portal | Excluded from normal learning sources; see [spells](05-spells.md). |
+| Artifact | Golden Goose Egg | Excluded from random artifact selection throughout the template. |
 
-Skill bans apply to reward and building sources that grant skills. They do not prevent a skill from appearing in normal level-up choices, so heroes that begin with Summon Avatar are also excluded.
+There are currently no globally banned skills or heroes. Summon Avatar and heroes that begin with it are available.
+
+## Zone-Level Location Bans
+
+| Scope | Locations |
+|---|---|
+| All zones | Pandora's Box, Arborcopia, Village, Eternal Dragon, Four Scholars Shrine, Pit of Glory |
+| Spawn and Center | Gingerbread House |
+
+Additional Spawn restrictions are documented under [content limits](01-zones/08-content-limits.md).
