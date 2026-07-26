@@ -6,18 +6,20 @@ Pandora's Box, Arborcopia, Village, Eternal Dragon, Four Scholars Shrine, and Pi
 
 ## Repetition Limits
 
-| Zone group | Objects limited to one instance of each object type |
+| Zone group | Additional objects limited to one instance of each object type |
 |---|---|
-| Spawn-A/B | Learning Stone; Stinging Sword, Summit Automaton, Magic Wheel, Knowledge Garden, Wise Owl; Pauper Knight Order, Four Scholars Observatory, University, Travelling Circus, Infernal Cirque; unguarded tier 1 resource sites |
+| Spawn-A/B | Learning Stone; Stinging Sword, Summit Automaton, Magic Wheel, Knowledge Garden, Wise Owl; University, Travelling Circus, Infernal Cirque; unguarded tier 1 resource sites |
 | Side-A/B | Learning Stone, Lost Library, Tree of Knowledge; T1/T2/T3 stat objects; Mercenary Guild, Sacrificial Shrine, Chimerologist; all eligible resource banks |
 | Center-A/B | Wise Owl; Lost Library, Tree of Knowledge; T2/T3 stat objects; interactions; Troglodyte Throne, Twilight Bloom, Overgrown Vori Ruins, Research Laboratory |
 | Center | Wise Owl; Learning Stone, Lost Library, Tree of Knowledge; T2/T3 stat objects; remaining interactions; Dragon Utopia, Abnormal Structure, Research Laboratory, Troglodyte Throne, Twilight Bloom, Overgrown Vori Ruins |
+
+Pauper Knight Order, Living Maze, and Four Scholars Observatory share a single counter rather than separate limits. Spawn, Side, and Center-A/B zones may contain at most one of these three locations in total. Center may contain up to three in total.
 
 Abandoned Mansion is the sole guarded tier 1 resource bank exception in Spawn-A/B and may appear twice. Center mana wells remain limited to four.
 
 ## Artifacts and Scrolls
 
-Center-A/B allow two mandatory epic artifacts and prohibit legendary artifacts. Their random scroll limits are one Magic Scroll, one Enchanted Magic Scroll, and no Mythic Magic Scroll. Center allows one of each scroll type and one mandatory legendary plus one epic artifact. The Golden Goose Egg cannot be selected anywhere in the template.
+Center-A/B guarantee two epic artifacts and allow no more than three epic artifacts in total, leaving room for at most one additional random epic. Legendary artifacts are prohibited. Their guarded random-artifact group has weight 40,000 and uses internal weights 10 common, 40 rare, 25 epic, and 0 legendary. Their random scroll limits are one Magic Scroll, one Enchanted Magic Scroll, and no Mythic Magic Scroll. Center allows one of each scroll type and one mandatory legendary plus one epic artifact. The Golden Goose Egg cannot be selected anywhere in the template.
 
 ## Biome Resource Banks
 

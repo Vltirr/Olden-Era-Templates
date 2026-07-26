@@ -3563,12 +3563,10 @@
                     "maxCount": 1
                 },
                 {
-                    "sid": "fort",
-                    "maxCount": 1
-                },
-                {
-                    "sid": "orb_observatory",
-                    "maxCount": 1
+                    "includeLists": [
+                        "ways_around_content_list_major_stat_locations"
+                    ],
+                    "maxCount": 3
                 },
                 {
                     "sid": "mercenary_guild",
@@ -3584,10 +3582,6 @@
                 },
                 {
                     "sid": "tree_of_knowledge",
-                    "maxCount": 1
-                },
-                {
-                    "sid": "maze",
                     "maxCount": 1
                 },
                 {
@@ -4041,15 +4035,9 @@
                     "maxCount": 1
                 },
                 {
-                    "sid": "fort",
-                    "maxCount": 1
-                },
-                {
-                    "sid": "orb_observatory",
-                    "maxCount": 1
-                },
-                {
-                    "sid": "maze",
+                    "includeLists": [
+                        "ways_around_content_list_major_stat_locations"
+                    ],
                     "maxCount": 1
                 },
                 {
@@ -4111,6 +4099,10 @@
                 {
                     "sid": "random_item_legendary",
                     "maxCount": 0
+                },
+                {
+                    "sid": "random_item_epic",
+                    "maxCount": 3
                 },
                 {
                     "sid": "scroll_box",
@@ -4570,15 +4562,9 @@
                     "maxCount": 1
                 },
                 {
-                    "sid": "fort",
-                    "maxCount": 1
-                },
-                {
-                    "sid": "orb_observatory",
-                    "maxCount": 1
-                },
-                {
-                    "sid": "maze",
+                    "includeLists": [
+                        "ways_around_content_list_major_stat_locations"
+                    ],
                     "maxCount": 1
                 },
                 {
@@ -4984,11 +4970,9 @@
                     "maxCount": 1
                 },
                 {
-                    "sid": "fort",
-                    "maxCount": 1
-                },
-                {
-                    "sid": "orb_observatory",
+                    "includeLists": [
+                        "ways_around_content_list_major_stat_locations"
+                    ],
                     "maxCount": 1
                 },
                 {
@@ -5560,22 +5544,22 @@
             },
             "groups": [
                 {
-                    "weight": 60000,
+                    "weight": 40000,
                     "includeLists": [
                         "basic_content_list_pickup_random_items"
                     ],
                     "content": [
                         {
                             "sid": "random_item_common",
-                            "weight": 0
+                            "weight": 10
                         },
                         {
                             "sid": "random_item_rare",
-                            "weight": 25
+                            "weight": 40
                         },
                         {
                             "sid": "random_item_epic",
-                            "weight": 50
+                            "weight": 25
                         },
                         {
                             "sid": "random_item_legendary",
@@ -7038,6 +7022,23 @@
         }
     ],
     "contentLists": [
+        {
+            "name": "ways_around_content_list_major_stat_locations",
+            "content": [
+                {
+                    "sid": "fort",
+                    "weight": 100
+                },
+                {
+                    "sid": "maze",
+                    "weight": 100
+                },
+                {
+                    "sid": "orb_observatory",
+                    "weight": 100
+                }
+            ]
+        },
         {
             "name": "ways_around_content_list_guarded_resource_banks_tier_3_base",
             "content": [

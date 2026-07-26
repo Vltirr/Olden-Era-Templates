@@ -15,3 +15,5 @@ Este registro recoge los cambios publicados de la plantilla Ways Around. Los cam
 - Prohibidos el Foso de la gloria en todas las zonas y la Casa de galleta de jengibre en Center.
 - Sustituidas las cuatro estructuras mágicas de nivel 2 aleatorias de Center por un Pergamino infinito explícito de cada tipo: plata, oro, platino y bronce.
 - Prohibido el artefacto Huevo de oca de oro en la plantilla.
+- Añadido un límite compartido para la Orden del caballero pobre, el Laberinto viviente y el Observatorio de los cuatro eruditos: como máximo puede aparecer una de las tres localizaciones en cada zona Spawn, Side o Center-A/B, mientras que Center puede contener hasta tres en total.
+- Reducida la presencia de artefactos aleatorios en Center-A/B bajando el peso de su grupo protegido de 60.000 a 40.000, cambiando los pesos de comunes/raros/épicos a 10/40/25 y limitando los artefactos épicos a tres en total, incluidos los dos obligatorios.

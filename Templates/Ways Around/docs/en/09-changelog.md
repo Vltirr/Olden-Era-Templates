@@ -15,3 +15,5 @@ This log records published changes to the Ways Around template. Documentation-on
 - Banned Pit of Glory from every zone and Gingerbread House from Center.
 - Replaced Center's four random tier-2 magic structures with one explicit Endless Scroll of each type: Silver, Gold, Platinum, and Bronze.
 - Banned the Golden Goose Egg artifact from the template.
+- Added a shared limit for Pauper Knight Order, Living Maze, and Four Scholars Observatory: at most one of the three may appear in each Spawn, Side, or Center-A/B zone, while Center may contain up to three in total.
+- Reduced random artifacts in Center-A/B by lowering their guarded artifact-group weight from 60,000 to 40,000, changing common/rare/epic weights to 10/40/25, and limiting epic artifacts to three in total including the two mandatory ones.

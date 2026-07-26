@@ -6,18 +6,20 @@ Caja de Pandora, Arborcopia, Aldea, Dragón eterno, Sagrario de los cuatro erudi
 
 ## Límites de repetición
 
-| Grupo de zonas | Objetos limitados a una instancia de cada tipo |
+| Grupo de zonas | Otros objetos limitados a una instancia de cada tipo |
 |---|---|
-| Spawn-A/B | Piedra de aprendizaje; Espada punzante, Autómata de la cumbre, Rueda mágica, Jardín del conocimiento, Búho sabio; Orden de los caballeros pobres, Observatorio de los cuatro eruditos, Universidad, Circo ambulante, Circo infernal; localizaciones de recursos T1 sin guardia externa |
+| Spawn-A/B | Piedra de aprendizaje; Espada punzante, Autómata de la cumbre, Rueda mágica, Jardín del conocimiento, Búho sabio; Universidad, Circo ambulante, Circo infernal; localizaciones de recursos T1 sin guardia externa |
 | Side-A/B | Piedra de aprendizaje, Biblioteca perdida, Árbol del conocimiento; objetos de estadísticas T1/T2/T3; Gremio de mercenarios, Sagrario de sacrificio, Quimerólogo; todos los bancos de recursos permitidos |
 | Center-A/B | Búho sabio; Biblioteca perdida, Árbol del conocimiento; objetos de estadísticas T2/T3; interacciones; Trono troglodita, Floración crepuscular, Ruinas de Vori con vegetación, Laboratorio de investigación |
 | Center | Búho sabio; Piedra de aprendizaje, Biblioteca perdida, Árbol del conocimiento; objetos de estadísticas T2/T3; interacciones restantes; Utopía de Dragones, Estructura anómala, Laboratorio de investigación, Trono troglodita, Floración crepuscular, Ruinas de Vori con vegetación |
+
+La Orden de los caballeros pobres, el Laberinto viviente y el Observatorio de los cuatro eruditos comparten un único contador en lugar de tener límites separados. Las zonas Spawn, Side y Center-A/B pueden contener como máximo una de estas tres localizaciones en total. Center puede contener hasta tres en total.
 
 Mansión abandonada es la única excepción entre los bancos de recursos T1 guardados de Spawn-A/B y puede aparecer dos veces. Los pozos de maná de Center conservan límite cuatro.
 
 ## Artefactos y pergaminos
 
-Center-A/B permiten dos artefactos épicos obligatorios y prohíben los legendarios. Sus límites aleatorios son un Pergamino mágico, un Pergamino mágico encantado y ningún Pergamino mágico mítico. Center permite uno de cada tipo de pergamino y un artefacto legendario más uno épico obligatorios. El Huevo de oca de oro no puede seleccionarse en ninguna zona.
+Center-A/B garantizan dos artefactos épicos y permiten un máximo total de tres, por lo que solo puede generarse un épico aleatorio adicional. Los artefactos legendarios están prohibidos. El grupo aleatorio protegido de artefactos tiene peso 40.000 y usa los pesos internos 10 para comunes, 40 para raros, 25 para épicos y 0 para legendarios. Sus límites aleatorios son un Pergamino mágico, un Pergamino mágico encantado y ningún Pergamino mágico mítico. Center permite uno de cada tipo de pergamino y un artefacto legendario más uno épico obligatorios. El Huevo de oca de oro no puede seleccionarse en ninguna zona.
 
 ## Bancos de recursos por bioma
 
