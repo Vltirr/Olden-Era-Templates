@@ -15,6 +15,10 @@ The following table shows the guard multiplier, randomization, and weekly growth
 
 These values apply to guards generated for zone content. Connection and town guards use their own explicit values shown below.
 
+## Endless Scroll Guards
+
+Each mandatory Endless Scroll has a reward value of 30000. The template overrides its base guard value to 24000 without changing that reward value. After Center's 1.25 multiplier, each scroll encounter has a nominal initial guard strength of 30000, subject to Center's randomization and weekly growth.
+
 ## Ground Connections
 
 | Connection | Guard value | Weekly growth |

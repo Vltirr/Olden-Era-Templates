@@ -19,7 +19,7 @@ Mansión abandonada es la única excepción entre los bancos de recursos T1 guar
 
 ## Artefactos y pergaminos
 
-Center-A/B garantizan dos artefactos épicos y permiten un máximo total de tres, por lo que solo puede generarse un épico aleatorio adicional. Los artefactos legendarios están prohibidos. El grupo aleatorio protegido de artefactos tiene peso 40.000 y usa los pesos internos 10 para comunes, 40 para raros, 25 para épicos y 0 para legendarios. Sus límites aleatorios son un Pergamino mágico, un Pergamino mágico encantado y ningún Pergamino mágico mítico. Center permite uno de cada tipo de pergamino y un artefacto legendario más uno épico obligatorios. El Huevo de oca de oro no puede seleccionarse en ninguna zona.
+Center-A/B garantizan dos artefactos épicos y permiten un máximo total de tres, por lo que solo puede generarse un épico aleatorio adicional. Los artefactos legendarios están prohibidos. El grupo aleatorio protegido de artefactos tiene peso 40.000 y usa los pesos internos 10 para comunes, 40 para raros, 25 para épicos y 0 para legendarios. Todas las zonas prohíben los Pergaminos mágicos míticos. Center-A/B permiten un Pergamino mágico y un Pergamino mágico encantado cada una; Center también permite uno de cada tipo y garantiza un artefacto legendario más uno épico. El Huevo de oca de oro no puede seleccionarse en ninguna zona.
 
 ## Bancos de recursos por bioma
 

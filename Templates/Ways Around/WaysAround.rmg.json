@@ -91,6 +91,24 @@
         "skills": [],
         "heroes": []
     },
+    "valueOverrides": [
+        {
+            "sid": "magic_amplifier_1",
+            "guardValue": 24000
+        },
+        {
+            "sid": "magic_amplifier_2",
+            "guardValue": 24000
+        },
+        {
+            "sid": "magic_amplifier_3",
+            "guardValue": 24000
+        },
+        {
+            "sid": "magic_amplifier_4",
+            "guardValue": 24000
+        }
+    ],
     "variants": [
         {
             "orientation": {
@@ -3686,7 +3704,7 @@
                 },
                 {
                     "sid": "mythic_scroll_box",
-                    "maxCount": 1
+                    "maxCount": 0
                 }
             ]
         },
@@ -4123,6 +4141,10 @@
             "limits": [
                 {
                     "sid": "eternal_dragon",
+                    "maxCount": 0
+                },
+                {
+                    "sid": "mythic_scroll_box",
                     "maxCount": 0
                 },
                 {
@@ -4582,6 +4604,10 @@
             "limits": [
                 {
                     "sid": "eternal_dragon",
+                    "maxCount": 0
+                },
+                {
+                    "sid": "mythic_scroll_box",
                     "maxCount": 0
                 },
                 {

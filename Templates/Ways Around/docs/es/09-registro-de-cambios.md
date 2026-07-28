@@ -17,3 +17,5 @@ Este registro recoge los cambios publicados de la plantilla Ways Around. Los cam
 - Prohibido el artefacto Huevo de oca de oro en la plantilla.
 - Añadido un límite compartido para la Orden del caballero pobre, el Laberinto viviente y el Observatorio de los cuatro eruditos: como máximo puede aparecer una de las tres localizaciones en cada zona Spawn, Side o Center-A/B, mientras que Center puede contener hasta tres en total.
 - Reducida la presencia de artefactos aleatorios en Center-A/B bajando el peso de su grupo protegido de 60.000 a 40.000, cambiando los pesos de comunes/raros/épicos a 10/40/25 y limitando los artefactos épicos a tres en total, incluidos los dos obligatorios.
+- Reducido de 30.000 a 24.000 el valor base de guardia de cada Pergamino infinito obligatorio, manteniendo su valor de recompensa de 30.000.
+- Prohibidos los Pergaminos mágicos míticos en todas las zonas porque sus variantes de artefacto pueden conceder hechizos neutrales de control excluidos por la plantilla.

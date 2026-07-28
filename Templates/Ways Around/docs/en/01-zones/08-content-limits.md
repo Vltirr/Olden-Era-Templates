@@ -19,7 +19,7 @@ Abandoned Mansion is the sole guarded tier 1 resource bank exception in Spawn-A/
 
 ## Artifacts and Scrolls
 
-Center-A/B guarantee two epic artifacts and allow no more than three epic artifacts in total, leaving room for at most one additional random epic. Legendary artifacts are prohibited. Their guarded random-artifact group has weight 40,000 and uses internal weights 10 common, 40 rare, 25 epic, and 0 legendary. Their random scroll limits are one Magic Scroll, one Enchanted Magic Scroll, and no Mythic Magic Scroll. Center allows one of each scroll type and one mandatory legendary plus one epic artifact. The Golden Goose Egg cannot be selected anywhere in the template.
+Center-A/B guarantee two epic artifacts and allow no more than three epic artifacts in total, leaving room for at most one additional random epic. Legendary artifacts are prohibited. Their guarded random-artifact group has weight 40,000 and uses internal weights 10 common, 40 rare, 25 epic, and 0 legendary. Every zone prohibits Mythic Magic Scrolls. Center-A/B allow one Magic Scroll and one Enchanted Magic Scroll each; Center also allows one of each and guarantees one legendary plus one epic artifact. The Golden Goose Egg cannot be selected anywhere in the template.
 
 ## Biome Resource Banks
 

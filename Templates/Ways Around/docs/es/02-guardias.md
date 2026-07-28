@@ -15,6 +15,10 @@ La siguiente tabla muestra el multiplicador de guardia, la variación aleatoria 
 
 Estos valores se aplican a las guardias generadas para el contenido de las zonas. Las guardias de conexiones y ciudades utilizan sus propios valores explícitos, mostrados a continuación.
 
+## Guardias de los Pergaminos infinitos
+
+Cada Pergamino infinito obligatorio tiene un valor de recompensa de 30000. La plantilla modifica su valor base de guardia a 24000 sin cambiar el valor de la recompensa. Tras aplicar el multiplicador 1,25 de Center, cada encuentro tiene una fuerza de guardia inicial nominal de 30000, sujeta a la variación aleatoria y al crecimiento semanal de Center.
+
 ## Conexiones terrestres
 
 | Conexión | Valor de guardia | Crecimiento semanal |
