@@ -305,7 +305,7 @@
                             }
                         },
                         {
-                            "type": "Dirt",
+                            "type": "Stone",
                             "from": {
                                 "type": "Connection",
                                 "args": [
@@ -320,7 +320,7 @@
                             }
                         },
                         {
-                            "type": "Dirt",
+                            "type": "Stone",
                             "from": {
                                 "type": "Connection",
                                 "args": [
@@ -335,7 +335,7 @@
                             }
                         },
                         {
-                            "type": "Dirt",
+                            "type": "Stone",
                             "from": {
                                 "type": "Connection",
                                 "args": [
@@ -350,7 +350,7 @@
                             }
                         },
                         {
-                            "type": "Dirt",
+                            "type": "Stone",
                             "from": {
                                 "type": "Connection",
                                 "args": [

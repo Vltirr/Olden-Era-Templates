@@ -5,7 +5,8 @@
 | Center-A/B | Laboratorio de investigación | Crossroads | `Dirt` |
 | Center | Utopia de Dragones | Crossroads | `Stone` |
 | Center | Estructura anómala | Crossroads | `Stone` |
-| Todas | Pozo de maná obligatorio | Conexión asociada | `Dirt` |
+| Spawn-A/B, Side-A/B, Center-A/B | Pozo de maná obligatorio | Conexión asociada | `Dirt` |
+| Center | Pozos de maná obligatorios | Conexiones asociadas | `Stone` |
 | Spawn-A/B, Center-A/B | Moradas de facción de un solo uso | Crossroads | `Stone` |
 | Pares de portales de retorno | Ambos extremos | Ancla asociada | Carretera interna |
 

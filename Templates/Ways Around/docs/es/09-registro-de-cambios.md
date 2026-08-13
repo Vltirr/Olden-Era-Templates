@@ -19,3 +19,4 @@ Este registro recoge los cambios publicados de la plantilla Ways Around. Los cam
 - Reducida la presencia de artefactos aleatorios en Center-A/B bajando el peso de su grupo protegido de 60.000 a 40.000, cambiando los pesos de comunes/raros/épicos a 10/40/25 y limitando los artefactos épicos a tres en total, incluidos los dos obligatorios.
 - Reducido de 30.000 a 24.000 el valor base de guardia de cada Pergamino infinito obligatorio, manteniendo su valor de recompensa de 30.000.
 - Prohibidos los Pergaminos mágicos míticos en todas las zonas porque sus variantes de artefacto pueden conceder hechizos neutrales de control excluidos por la plantilla.
+- Cambiadas de tierra a piedra las carreteras que conectan los cuatro pozos de maná obligatorios de Center.

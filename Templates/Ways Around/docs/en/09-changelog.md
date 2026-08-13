@@ -19,3 +19,4 @@ This log records published changes to the Ways Around template. Documentation-on
 - Reduced random artifacts in Center-A/B by lowering their guarded artifact-group weight from 60,000 to 40,000, changing common/rare/epic weights to 10/40/25, and limiting epic artifacts to three in total including the two mandatory ones.
 - Reduced the base guard value of each mandatory Endless Scroll from 30,000 to 24,000 while preserving its 30,000 reward value.
 - Banned Mythic Magic Scrolls from every zone because their artifact variants can grant neutral control spells excluded by the template.
+- Changed the roads connecting Center's four mandatory mana wells from dirt to stone.
