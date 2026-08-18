@@ -75,6 +75,38 @@ One-way return portals:
 | `Center-A`, `Center-B` | Forward treasure zones | No town, Research Laboratory, Celestial Spire, one-time faction T5/T6 dwellings, World Mirror | High-value treasure and advanced tempo tools |
 | `Center` | Core conflict zone | Neutral town with Mage Guild V prebuilt and all other construction blocked, Dragon Utopia, Abnormal Structure, one Endless Scroll of each type, 4 mana wells | Highest-value and most contested area |
 
+### Annotated Zone Examples
+
+These screenshots show representative generations with important guaranteed elements and routes labelled. Exact zone shapes, positions, and additional random content vary with the seed.
+
+<details>
+<summary>Spawn zone</summary>
+
+![Annotated Spawn zone](./docs/images/spawn-zone-tagged.jpg)
+
+</details>
+
+<details>
+<summary>Side zone</summary>
+
+![Annotated Side zone](./docs/images/side-zone-tagged.jpg)
+
+</details>
+
+<details>
+<summary>Treasure zone (Center-A/B)</summary>
+
+![Annotated treasure zone](./docs/images/treasure-zone-tagged.jpg)
+
+</details>
+
+<details>
+<summary>Central desert zone</summary>
+
+![Annotated central desert zone](./docs/images/desert-zone-tagged.jpg)
+
+</details>
+
 ## Reward Expectations
 
 Relative zone value is intentionally uneven:

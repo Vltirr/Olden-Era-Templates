@@ -75,6 +75,38 @@ Portales de retorno unidireccionales:
 | `Center-A`, `Center-B` | Zonas avanzadas de tesoro | Sin ciudad, Laboratorio de investigación, Chapitel celestial, moradas de facción T5/T6 de un solo uso, Espejo del mundo | Tesoro de alto valor y herramientas avanzadas de tempo |
 | `Center` | Zona central de conflicto | Ciudad neutral con Cofradía de Magos V preconstruida y toda la demás construcción bloqueada, Utopía de Dragones, Estructura anómala, un Pergamino infinito de cada tipo y 4 pozos de maná | Zona de mayor valor y más disputada |
 
+### Ejemplos de zonas etiquetadas
+
+Estas capturas muestran generaciones representativas con las rutas y los elementos garantizados más importantes etiquetados. La forma exacta de las zonas, las posiciones y el contenido aleatorio adicional cambian con la semilla.
+
+<details>
+<summary>Zona inicial</summary>
+
+![Zona inicial etiquetada](./docs/images/spawn-zone-tagged.jpg)
+
+</details>
+
+<details>
+<summary>Zona lateral</summary>
+
+![Zona lateral etiquetada](./docs/images/side-zone-tagged.jpg)
+
+</details>
+
+<details>
+<summary>Zona de tesoro (Center-A/B)</summary>
+
+![Zona de tesoro etiquetada](./docs/images/treasure-zone-tagged.jpg)
+
+</details>
+
+<details>
+<summary>Zona desértica central</summary>
+
+![Zona desértica central etiquetada](./docs/images/desert-zone-tagged.jpg)
+
+</details>
+
 ## Expectativa de recompensas
 
 La distribución de valor entre zonas es intencionadamente desigual:
