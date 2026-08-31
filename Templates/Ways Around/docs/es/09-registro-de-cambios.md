@@ -2,7 +2,7 @@
 
 Este registro recoge los cambios publicados de la plantilla Ways Around. Los cambios solo de documentacion no se registran.
 
-## Sin publicar
+## 1.0.0 - 2026-08-31
 
 - Prohibido Dragón eterno en todas las zonas.
 - Prohibido Sagrario de los cuatro eruditos en todas las zonas.

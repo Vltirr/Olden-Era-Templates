@@ -2,7 +2,7 @@
 
 This log records published changes to the Ways Around template. Documentation-only changes are not recorded.
 
-## Unreleased
+## 1.0.0 - 2026-08-31
 
 - Banned Eternal Dragon from every zone.
 - Banned Four Scholars Shrine from every zone.
