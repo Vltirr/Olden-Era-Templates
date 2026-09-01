@@ -9,6 +9,7 @@
 ## Summary
 
 - 2 players
+- Map size: L (112 × 112)
 - `Single Hero` mode
 - Best-of-3 tournament victory
 - 7 zones: 3 per player plus 1 neutral central zone

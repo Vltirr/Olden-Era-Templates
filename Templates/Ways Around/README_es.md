@@ -9,6 +9,7 @@
 ## Resumen
 
 - 2 jugadores
+- Tamaño del mapa: L (112 × 112)
 - modo `Single Hero`
 - victoria por torneo al mejor de 3
 - 7 zonas: 3 por jugador y 1 zona central neutral
